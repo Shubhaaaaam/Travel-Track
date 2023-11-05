@@ -1,4 +1,3 @@
-- 👋 Hi, I’m SHUBHAM
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Python Related Projrcts
+The main application is named Railway Ticket Management System.py.
+Save all the files on single folder.
+Create MySQL Database and add table details to make it work properly.
